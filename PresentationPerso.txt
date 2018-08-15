@@ -4,3 +4,6 @@ Fichier de Presentation Personnelle
 
 Nom : PUMA
 Prénom : Jeremie
+
+Age : 27 ans
+Ville: Laval
